@@ -1,4 +1,4 @@
-# DataScience Capstone Project
+# Data Science Capstone Project
 
 This repository contains the relevant files used and created during the Data Science Capstone Project.
 
