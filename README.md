@@ -14,7 +14,7 @@ The presentation is available online: <a href="http://rpubs.com/wowkazmir/546788
 ## Other noteworthy documents
 
 * [Milestone Report](https://rpubs.com/wowkazmir/535853)
-* [Final Report]()
+* [Final Report](http://rpubs.com/wowkazmir/546921)
 
 Please see the course website for further information on the project and the data science specialization.
 
