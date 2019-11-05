@@ -5,9 +5,9 @@ This repository contains the relevant files used and created during the Data Sci
 The purpose of the project was to develop a data product which uses natural language processing to predict the next word a user may want to type. A shiny application serves as the final product for this project.
 
 ## Application
-The application is available online: <a href="http://45.55.48.122/" target="_blank">Here</a>.
+The Shiny app is available online: <a href="http://45.55.48.122/" target="_blank">Here</a>.
 ## Presentation
-The presentation is available online: <a href="http://rpubs.com/wowkazmir/546788" target="_blank">Here</a>.
+The R Studio presentation is available online: <a href="http://rpubs.com/wowkazmir/546788" target="_blank">Here</a>.
 
 
 
