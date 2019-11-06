@@ -7,7 +7,7 @@ The purpose of the project was to develop a data product which uses natural lang
 ## Application
 The Shiny app is available online: <a href="http://45.55.48.122/" target="_blank">here</a>.
 ## Presentation
-The R Studio presentation is available online: <a href="http://rpubs.com/wowkazmir/547092" target="_blank">here</a>.
+The R Studio presentation is available online: <a href="http://rpubs.com/wowkazmir/547094" target="_blank">here</a>.
 
 
 
