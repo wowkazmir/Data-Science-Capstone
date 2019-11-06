@@ -19,5 +19,5 @@ The R Studio presentation is available online: <a href="http://rpubs.com/wowkazm
 Please see the course website for further information on the project and the data science specialization.
 
 [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
-offered on [Coursera](https://www.coursera.org) by [Johns Hopkins University](https://www.jhu.edu).
+offered on Coursera by Johns Hopkins University.
 
